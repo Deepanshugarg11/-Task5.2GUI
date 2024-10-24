@@ -1,6 +1,5 @@
 # -Task5.2GUI
 
-
 import tkinter as tk
 import RPi.GPIO as GPIO
 import time
